@@ -6,7 +6,7 @@ int main()
   printf("Enter three numbers to add\n");
   scanf("%d%d", &a, &b, &c);
 
-  sum = a + b+c;
+  sum = a + b + c;
 
   printf("Sum of the numbers = %d\n", sum);
 
