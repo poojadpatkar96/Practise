@@ -18,6 +18,6 @@ int main()
 
 
   printf("Sum of the numbers = %d\n", sum);
-
+  printf("sum is");
   return 0;
 }
